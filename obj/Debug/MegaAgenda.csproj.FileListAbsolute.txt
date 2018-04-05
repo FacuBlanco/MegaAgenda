@@ -1,0 +1,26 @@
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\MegaAgenda.exe.config
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\MegaAgenda.exe
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\MegaAgenda.pdb
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\BLL.dll
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\Domain.dll
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\BLL.pdb
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\Domain.pdb
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.csprojResolveAssemblyReference.cache
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.exe
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.pdb
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\DAL.dll
+H:\Estudio\VisualStudio\MegaAgenda\MegaAgenda\bin\Debug\DAL.pdb
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\MegaAgenda.exe.config
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\MegaAgenda.exe
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\MegaAgenda.pdb
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\BLL.dll
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\Domain.dll
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\DAL.dll
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\BLL.pdb
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\Domain.pdb
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\bin\Debug\DAL.pdb
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.csproj.CopyComplete
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.exe
+C:\Users\Facu\Desktop\CEI\Programacion 3\MegaAgenda\MegaAgenda\obj\Debug\MegaAgenda.pdb
